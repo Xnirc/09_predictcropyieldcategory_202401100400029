@@ -31,14 +31,6 @@ The dataset should be in CSV format and include the following columns:
 2. Upload your dataset CSV
 3. Run all cells to train the model and evaluate accuracy
 
-## 🔍 Sample Code
+## Output
+![Screenshot 2025-04-22 161207](https://github.com/user-attachments/assets/42cc4fa8-91f0-446e-9a0b-16f58420f998)
 
-```python
-model = RandomForestClassifier(n_estimators=100, random_state=42)
-model.fit(X_train, y_train)
-y_pred = model.predict(X_test)
-print("Accuracy:", accuracy_score(y_test, y_pred))
-
-
-
-Output - ![image](https://github.com/user-attachments/assets/bba1ebff-1fa5-480f-9cce-645ffaffd8c0)
