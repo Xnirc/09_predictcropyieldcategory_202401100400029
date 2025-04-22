@@ -32,5 +32,8 @@ The dataset should be in CSV format and include the following columns:
 3. Run all cells to train the model and evaluate accuracy
 
 ## Output
-![Screenshot 2025-04-22 161207](https://github.com/user-attachments/assets/42cc4fa8-91f0-446e-9a0b-16f58420f998)
+![Screenshot 2025-04-22 163708](https://github.com/user-attachments/assets/0718b421-2b6d-4539-b11c-379302918a85)
+![Screenshot 2025-04-22 163643](https://github.com/user-attachments/assets/d867ad29-223a-4188-8732-ac0c54158a37)
+
+
 
