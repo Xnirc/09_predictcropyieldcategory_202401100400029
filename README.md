@@ -39,4 +39,6 @@ model.fit(X_train, y_train)
 y_pred = model.predict(X_test)
 print("Accuracy:", accuracy_score(y_test, y_pred))
 
-output - ![image](https://github.com/user-attachments/assets/bba1ebff-1fa5-480f-9cce-645ffaffd8c0)
+
+
+Output - ![image](https://github.com/user-attachments/assets/bba1ebff-1fa5-480f-9cce-645ffaffd8c0)
